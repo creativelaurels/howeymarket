@@ -1,7 +1,6 @@
 # howeymarket
-Website build and design
 
-> This will be a WordPress site build
+This will be a WordPress site build.
 
 www.howeymarket.com
 
